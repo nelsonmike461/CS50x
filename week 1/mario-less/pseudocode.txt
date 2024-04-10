@@ -1,0 +1,5 @@
+prompt the user for height (>1 and <8)
+if enterd wrong input prompt again
+print # by reading the input(left alignd pyramid)
+covert it to right alligned by using .
+make the dot not visible(with space) to shoe right aligned pyramid
