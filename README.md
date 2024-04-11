@@ -12,7 +12,7 @@
 
 ### ❗ **The following codes are for educational purpose only and not intended to be used / submitted as your own solutions.**
 
-### ❗ **Cheating violates the [Academic Honesty](https://cs50.harvard.edu/python/2023/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.**
+### ❗ **Cheating violates the [Academic Honesty](https://cs50.harvard.edu/x/2023/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.**
 
 <br/>
 
@@ -20,26 +20,30 @@
 
 ### [Week 1](/week%201/) - [C]
 
-- [Cash](/week%201/cash/cash.c)
-- [Credit](/week%201/credit/credit.c)
 - [Hello](/week%201/hello/hello.c)
 - [Mario-less](/week%201/mario-less/mario.c)
 - [Mario-more](/week%201/mario-more/mario.c)
+- [Cash](/week%201/cash/cash.c)
+- [Credit](/week%201/credit/credit.c)
 
 ### [Week 2](/week%202/) - [Arrays]
 
+- [Bulbs](/week%202/bulbs/bulbs.c)
 - [Scrabble](/week%202/scrabble/scrabble.c)
+- [Readability](/week%202/readability/readability.c)
 - [Substituion](/week%202/substitution/substitution.c)
+- [Wordle](/week%202/wordle/wordle.c)
 
 ### [Week 3](/week%203/) - [Algorithms]
 
-- [Plurality](/week%203/plurality/plurality.c)
 - [Sort](/week%203/sort/)
+- [Plurality](/week%203/plurality/plurality.c)
 - [Tideman](/week%203/tideman/tideman.c)
 
 ### [Week 4](/week%204/) - [Memory]
 
 - [Filter-less](/week%204/filter-less/)
+- [Reverse](/week%204/reverse/)
 
 ### [Week 5](/week%205/) - [DataStructures]
 
