@@ -4,7 +4,7 @@
 
 ### These are my solutions for CS50’s Introduction to Computer Science 2023.
 
-### Final Project: [Personal Portfolio]()
+### Final Project: [Personal Portfolio](https://portfolio-one-chi-11.vercel.app/)
 
 <br/>
 
